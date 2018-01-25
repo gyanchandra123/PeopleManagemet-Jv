@@ -1,0 +1,15 @@
+2019-12-18 10:33:50 [main] INFO  c.i.a.s.SpringBootloggerApplication - Starting SpringBootloggerApplication on DESKTOP-A8PEKJK with PID 2764 (D:\workAtHome\spring\springBootlogger\springBootlogger\target\classes started by HP in D:\workAtHome\spring\springBootlogger\springBootlogger)
+2019-12-18 10:33:50 [main] INFO  c.i.a.s.SpringBootloggerApplication - No active profile set, falling back to default profiles: default
+2019-12-18 10:33:51 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9090 (http)
+2019-12-18 10:33:51 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2019-12-18 10:33:51 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.29]
+2019-12-18 10:33:51 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-12-18 10:33:51 [main] INFO  o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1023 ms
+2019-12-18 10:33:51 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-12-18 10:33:51 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9090 (http) with context path ''
+2019-12-18 10:33:51 [main] INFO  c.i.a.s.SpringBootloggerApplication - Started SpringBootloggerApplication in 1.849 seconds (JVM running for 2.362)
+2019-12-18 10:33:51 [main] ERROR c.i.a.s.SpringBootloggerApplication - message log at ERROR level
+2019-12-18 10:33:51 [main] WARN  c.i.a.s.SpringBootloggerApplication - message log at WARN level
+2019-12-18 10:33:51 [main] INFO  c.i.a.s.SpringBootloggerApplication - message log at INFO level
+2019-12-18 10:38:21 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2019-12-18 10:38:21 [RMI TCP Connection(4)-127.0.0.1] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
